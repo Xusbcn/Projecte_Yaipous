@@ -4,4 +4,4 @@ ulleres: si no
 
 sexe: mascle femella
 
-especie: huma nohuma
+huma: huma nohuma

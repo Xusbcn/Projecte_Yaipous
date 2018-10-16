@@ -8,8 +8,8 @@ Gringotts.jpeg : cabell calb , ulleres si , sexe mascle , especie nohuma
 Hagrid.png : cabell castany , ulleres no , sexe mascle , especie huma
 Harry.jpg : cabell moreno , ulleres si , sexe mascle , especie huma
 Hermione.jpg : cabell castany , ulleres no , sexe femella , especie huma
-Luna.jpg : cabell ros , ulleres no , sexe femella , especie nohuma
-Mirtle.jpg : cabell castany , ulleres si , sexe femella , especie huma
+Luna.jpg : cabell ros , ulleres no , sexe femella , especie huma
+Mcgonagall.jpg : cabell castany , ulleres si , sexe femella , especie huma
 Ron.jpg : cabell pelroig , ulleres no , sexe mascle , especie huma
 Skeeter.jpg : cabell ros , ulleres si , sexe femella , especie huma
 Snape.jpg : cabell moreno , ulleres no , sexe mascle , especie huma
