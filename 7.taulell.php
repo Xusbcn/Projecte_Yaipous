@@ -24,6 +24,7 @@
 			echo '<td>' . $arrayTest[$y] . '</td>';
 			unset($x[array_search($y, $x)]);
 			//fer que no foti l'ultim random quan s'acabin els numeros de $x.
+			if($arrayTest )
 			$y = array_rand($x);	
 		}}
 
