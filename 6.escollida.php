@@ -15,9 +15,12 @@
 
 	}
 
-	$escollida = escollir($arrayTest);
+	//Per printar els values: escollir($arrayTest);
+	$escollida = array_search(escollir($arrayTest), $arrayTest);
 
-	print_r($escollida);
+	echo($escollida);
+	
+
 	?>
 
 </body>
